@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">dms-android-app</string>
+  <string name="search">Search</string>
+
+  <string name="base_url">http://10.0.2.2:8080/</string>
+  <string name="server_users">users/</string>
+  <string name="submit_user">users/submituser</string>
+  <string name="login_user">users/login</string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+</resources>
